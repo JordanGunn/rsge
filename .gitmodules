@@ -1,0 +1,18 @@
+[submodule "rsge_toolbox"]
+	path = rsge_toolbox
+	url = git@github.com:JordanGunn/rsge_toolbox.git
+[submodule "vertigo"]
+	path = vertigo
+	url = git@github.com:JordanGunn/vertigo.git
+[submodule "liqcs"]
+	path = liqcs
+	url = git@github.com:JordanGunn/liqcs.git
+[submodule "oriqcs"]
+	path = oriqcs
+	url = git@github.com:JordanGunn/oriqcs.git
+[submodule "lical"]
+	path = lical
+	url = git@github.com:JordanGunn/lical.git
+[submodule "eclipse"]
+	path = eclipse
+	url = git@github.com:JordanGunn/eclipse.git
