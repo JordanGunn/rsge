@@ -16,3 +16,9 @@
 [submodule "rsge_toolbox"]
 	path = rsge_toolbox
 	url = https://github.com/JordanGunn/rsge_toolbox.git
+[submodule "laszy"]
+	path = laszy
+	url = https://github.com/JordanGunn/laszy.git
+[submodule "dem_wave"]
+	path = dem_wave
+	url = https://github.com/JordanGunn/dem_wave.git
